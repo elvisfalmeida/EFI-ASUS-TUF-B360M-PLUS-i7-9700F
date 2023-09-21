@@ -8,8 +8,7 @@ Use at your own risk. This is a experimental EFI so bugs may happen and i take n
 
 ## Remember to merge both files into the repository.
 
-Kexts.7z and EFI.zip
-Kexts must be INSIDE EFIT/OC
+Kexts.7z and EFI.zip // the Kexts must be INSIDE EFIT/OC
 
 
 
