@@ -6,6 +6,11 @@
 ## Disclaimer
 Use at your own risk. This is a experimental EFI so bugs may happen and i take no responsibility for your hardware.
 
+## Remember to merge both files into the repository.
+
+Kexts.7z and EFI.zip
+Kexts must be INSIDE EFIT/OC
+
 
 
 ## Specification
@@ -17,6 +22,9 @@ Use at your own risk. This is a experimental EFI so bugs may happen and i take n
 | RAM              | 2x 8GB Corsair Vengeance LPX, 2400MHz, DDR4 , 16GB |
 | RAM              | 2x 8GB Husky Gaming, 8GB, 2666Mhz, DDR4 , 16GB     |
 | GPU              | RX 6600 XFX                                        |
+| Ethernet         | L219-V                                             |
+| Wireless         | Wifi 6 AX210/AX211/AX411 160Mhz                    |
+| BlueTooth        | Wifi 6 AX210/AX211/AX411 160Mhz                    |
 
 ## Working
 
