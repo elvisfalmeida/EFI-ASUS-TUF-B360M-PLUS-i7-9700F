@@ -10,7 +10,9 @@ Use at your own risk. This is a experimental EFI so bugs may happen and i take n
 
 Kexts.7z and EFI.zip // the Kexts must be INSIDE EFIT/OC
 
+###Obs
 
+all usb ports are mapped
 
 ## Specification
 
